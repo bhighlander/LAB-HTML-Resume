@@ -1,3 +1,27 @@
 body {
-  background-color: bisque;
+  background-color: #f0b975;
+}
+
+#houselens {
+  font-family: 'Courier New', Courier, monospace;
+  border: 2px solid #8175f0;
+}
+
+#killebrew {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 5px dotted #f075e4;
+}
+
+#portland {
+  font-family:Arial, Helvetica, sans-serif;
+  border: 3px ridge #e4f075;
+}
+
+#warby {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  border: 1px inset #5be8f2;
+}
+
+article h2 {
+  color: #8175f0;
 }
